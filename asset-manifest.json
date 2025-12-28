@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactproject/static/css/main.4f77e537.css",
+    "main.js": "/reactproject/static/js/main.ae550971.js",
+    "static/media/Fregat.woff": "/reactproject/static/media/Fregat.c0fd1fd9538768da3aba.woff",
+    "static/media/Fregat.woff2": "/reactproject/static/media/Fregat.30723adffbca3d52c3bd.woff2",
+    "index.html": "/reactproject/index.html",
+    "main.4f77e537.css.map": "/reactproject/static/css/main.4f77e537.css.map",
+    "main.ae550971.js.map": "/reactproject/static/js/main.ae550971.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f77e537.css",
+    "static/js/main.ae550971.js"
+  ]
+}
